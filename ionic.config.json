@@ -1,0 +1,7 @@
+{
+  "name": "casa-full",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
